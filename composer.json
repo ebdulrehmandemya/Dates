@@ -1,7 +1,6 @@
 {
   "name": "dahatu/dates",
   "description": "A full dates that support all dates such gregorian, iranian, kurdish, hebrew, ... . ",
-  "version": "1.0.1",
   "minimum-stability": "dev",
   "keywords": [
     "full dates",
@@ -21,6 +20,11 @@
   "autoload": {
     "psr-4": {
       "Dahatu\\Dates\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.0-dev"
     }
   }
 }
