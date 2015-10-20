@@ -1,13 +1,13 @@
 {
   "name": "dahatu/dates",
   "description": "A full dates that support all dates such gregorian, iranian, kurdish, hebrew, ... . ",
+  "version": "1.0",
+  "minimum-stability": "alpha",
   "keywords": [
     "full dates",
     "date converter",
     "calendar"
   ],
-  "type": "library",
-  "minimum-stability": "stable",
   "license": "MIT",
   "require": {
     "php": ">=5.3"
