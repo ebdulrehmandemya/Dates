@@ -1,0 +1,26 @@
+{
+  "name": "dahatu/dates",
+  "description": "A full dates that support all dates such gregorian, iranian, kurdish, hebrew, ... . ",
+  "keywords": [
+    "full dates",
+    "date converter",
+    "calendar"
+  ],
+  "type": "library",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4"
+  },
+  "authors": [
+    {
+      "name": "abdolrahman damia",
+      "email": "abdolrahmandamia@yahoo.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Dahatu\\Dates\\": "src/"
+    }
+  }
+}
