@@ -2,7 +2,6 @@
   "name": "dahatu/dates",
   "type": "dahatu-package",
   "description": "A full dates that support all dates such gregorian, iranian, kurdish, hebrew, ... . ",
-  "version": "1.0-dev",
   "keywords": [
     "full dates",
     "date converter",
@@ -25,7 +24,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "1.0-dev"
+      "dev-master": "1.0.0-dev"
     }
   }
 }
