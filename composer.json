@@ -2,7 +2,7 @@
   "name": "dahatu/dates",
   "description": "A full dates that support all dates such gregorian, iranian, kurdish, hebrew, ... . ",
   "version": "1.0.1",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "keywords": [
     "full dates",
     "date converter",
